@@ -223,7 +223,7 @@ th {
 }
 
 body {
-  background-color: #f9f9f4;
+  background-color: #f9f9f9;
   font-family: Ubuntu, sans-serif;
 }
 
@@ -282,7 +282,7 @@ body {
 }
 
 .card_title {
-  color: #1234;
+  color: #999;
   font-size: 18px;
   margin: 0;
 }
